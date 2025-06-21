@@ -1,0 +1,9 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+# ---- VS Code ----
+.vscode/settings.json       # committed intentionally; keep other VS Code fluff out
+.vscode/*
+!.vscode/settings.json

@@ -1,0 +1,6 @@
+{
+  "remote.containers.autoReload": "never",
+  "extensions.ignoreRecommendations": true,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "python.defaultInterpreterPath": "/usr/bin/python3"
+}
